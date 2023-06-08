@@ -13,7 +13,7 @@
 ![Image alt](/img/header.png)
 `div.subscribe__wrapper>h2.subscribe__title+p.subscribe__text+form.subscribe__form.form>label.form__label>span.visually-hidden>input.form__input^button.form__button`
 ![Image alt](/img/form.png)
-`ul.services__list>li.services__item>svg.services__cvg+h3.services__heading+a.services__link`
+`div.card>svg.card__img+h3.card__text+a.card__link`
 ![Image alt](/img/card.png)
 `div.benefits__wrapper>h2.benefits__title+p.benefits__promo+p.benefits__text+a.benefits__link+img.benefits__image`
 ![Image alt](/img/benefits.png)
